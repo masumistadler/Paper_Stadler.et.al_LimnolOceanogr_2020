@@ -20,6 +20,12 @@ Stadler, M., Ejarque, E. and Kainz, M.J. (2020), In‐lake transformations of di
 
 ---
 
+## Publication access
+If you wish to read the paper, but do not have access to it through your institution please feel free to contact the authors for a copy.
+Otherwise, the paper can be downloaded on the publisher's [website](https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.1002/lno.11406).
+
+---
+
 ## Data
 Meta data are available on Zenodo: xx
 
