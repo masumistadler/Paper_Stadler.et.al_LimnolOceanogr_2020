@@ -3,11 +3,12 @@
 ---
 
 # In‐lake transformations of dissolved organic matter composition in a subalpine lake do not change its biodegradability
-**Authors:** Masumi Stadler, Elisabet Ejarque, Martin J. Kainz
+**Authors:** Masumi Stadler<sup>1,2</sup>, Elisabet Ejarque<sup>1,2</sup>, Martin J. Kainz<sup>2</sup>
 
 **Affiliations:**
-1. 
-2.
+
+1. Department of Limnology and Bio-Oceanography, University of Vienna, Vienna, Austria
+2. WasserCluster Lunz – Biological Station, Inter-University Research Centre for Aquatic Ecosystem Research, Lunz am See, Austria
 
 ---
 
@@ -37,4 +38,4 @@ In freshwater ecosystems, dissolved organic matter (DOM) originates from terrest
 ---
 
 ## Funding sources
-Austrian Academy of Sciences (ÖAW)
+This study was supported by the Austrian Academy of Science (ÖAW) as part of the project "Influence of climate extremes on carbon dynamics across the boundaries of aquatic ecosystems (EXCARB)".
