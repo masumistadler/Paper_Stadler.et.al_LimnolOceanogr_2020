@@ -3,7 +3,9 @@
 ---
 
 # In‐lake transformations of dissolved organic matter composition in a subalpine lake do not change its biodegradability
-**Authors:** Masumi Stadler<sup>1,2</sup>, Elisabet Ejarque<sup>1,2</sup>, Martin J. Kainz<sup>2</sup>
+**Publication authors:** Masumi Stadler<sup>1,2</sup>, Elisabet Ejarque<sup>1,2</sup>, Martin J. Kainz<sup>2</sup>
+
+**Code authors**: Masumi Stadler (R, ImageJ), Elisabet Ejarque (PARAFAC, MATLAB), Christina Fasching (Fluorescence, R)
 
 **Affiliations:**
 
@@ -28,13 +30,15 @@ Otherwise, the paper can be downloaded on the publisher's [website](https://aslo
 ---
 
 ## Data
+**(Data sets are not public yet, hence links not working)**
+
 Data set is available on Zenodo:
 
 Stadler, M., Ejarque, E., Stenizka, G., Pitzl, B. and Kainz, M.J. (2020), In‐lake transformations of dissolved organic matter composition in a subalpine lake do not change its biodegradability. https://doi.org/10.5281/zenodo.4060243
 
 Microscopy raw pictures on Figshare:
 
-10.6084/m9.figshare.13420082
+https://10.6084/m9.figshare.13420082
 
 
 
