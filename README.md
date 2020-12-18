@@ -28,7 +28,15 @@ Otherwise, the paper can be downloaded on the publisher's [website](https://aslo
 ---
 
 ## Data
-Meta data are available on Zenodo: xx
+Data set is available on Zenodo:
+
+Stadler, M., Ejarque, E., Stenizka, G., Pitzl, B. and Kainz, M.J. (2020), In‐lake transformations of dissolved organic matter composition in a subalpine lake do not change its biodegradability. https://doi.org/10.5281/zenodo.4060243
+
+Microscopy raw pictures on Figshare:
+
+10.6084/m9.figshare.13420082
+
+
 
 ---
 
